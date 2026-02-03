@@ -9,7 +9,7 @@ export default defineConfig(({ mode }) => {
         port: 3000,
         host: '0.0.0.0',
 		allowedHosts: [
-          'kefu.onrender.com',
+          'zl-kefu.onrender.com',
           '.onrender.com' // 允许所有 onrender.com 子域名
         ]
       },
